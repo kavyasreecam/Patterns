@@ -1,6 +1,7 @@
-# NAME : KAVYA SREE
-# ROLL NO. : 20RH1A04G3
-# COLLEGE : MRECW
-# TRAINING  : SHE RAISE 2.0
-# DATE : 24-05-24
-# ABOUT : PATTERNS ASSIGNMENT
+Name : Narayanadas Kavyasree
+RollNo : 20RH1A04G3
+College : MRECW
+Training : SheArise 2.0
+Date : 24-05-24
+About : Patterns Assignment
+
